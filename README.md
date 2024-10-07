@@ -12,7 +12,7 @@ Automatic detection of win, draw, or ongoing game states.
 ## Installation
 Clone the repository:
  ```bash
-git clone https://github.com/nguyen1013/tic-tac-toe.git
+git clone https://github.com/nguyen1013/tic-tac-toe-OOAD-java.git
 ```
 
 ## How to play
